@@ -11,8 +11,6 @@ let SSML = `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml
 </voice>
 </speak>`;
 
-const key = "3143f674d557421e895cb1948dee8706";
-const region = "eastus";
         
 /**
  * Node.js server code to convert text to speech
